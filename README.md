@@ -11,9 +11,6 @@
   <a href="[your-twitter-URL](https://twitter.com/cKurultayKalkan)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://codeck.com.tr)">
-    <img src="https://codeck.com.tr/assets/img/codeck@2x.png" alt="Codeck Badge"/>
-  </a>
 </div>
 
 <!--
