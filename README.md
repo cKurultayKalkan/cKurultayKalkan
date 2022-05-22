@@ -4,6 +4,18 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ckurultaykalkan/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/cKurultayKalkan)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://codeck.com.tr)">
+    <img src="https://codeck.com.tr/assets/img/codeck@2x.png" alt="Codeck Badge"/>
+  </a>
+</div>
+
 <!--
 **cKurultayKalkan/cKurultayKalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
