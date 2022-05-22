@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer and Software Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey. :wave: 
+I am a Full Stack Developer and Software Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey. 
 
 - 🌱 I’m currently learning Live Streaming and Media Technologies.
 
@@ -40,7 +40,6 @@ I am a Full Stack Developer and Software Architect <img src="https://media.giphy
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cKurultayKalkan&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cKurultayKalkan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
