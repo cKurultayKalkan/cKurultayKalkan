@@ -40,6 +40,7 @@ I am a Full Stack Developer and Software Architect <img src="https://media.giphy
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cKurultayKalkan&theme=dark&background=000000)](https://git.io/streak-stats)
+![Cagdas's GitHub stats](https://github-readme-stats.vercel.app/api?username=cKurultayKalkan&layout=compact&show_icons=true&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cKurultayKalkan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
